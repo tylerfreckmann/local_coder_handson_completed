@@ -126,7 +126,7 @@
       }
     }
   },
-  "name": "Coder Handson",
+  "name": "Coder Handson Completed",
   "imgPattern": 1,
   "showInitials": false,
   "metrics": {
@@ -184,11 +184,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 24,
+    "versionNumber": 25,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1645570196571
+    "lastModifiedOn": 1645570213546
   },
   "creationTag": {
     "versionNumber": 0,
